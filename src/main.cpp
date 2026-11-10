@@ -14,5 +14,5 @@ int main() {
     cout << "Coin: " << (coinFlip() ? "Heads" : "Tails") << endl;
     cout << "d6: " << rollD6() << endl;
     cout << "d10: " << rollD10() << endl;
-    return 0
+    return 0;
 }
